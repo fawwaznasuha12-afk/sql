@@ -8,6 +8,7 @@ import sys
 import asyncio
 import argparse
 from pathlib import Path
+from typing import Dict
 
 import yaml
 
